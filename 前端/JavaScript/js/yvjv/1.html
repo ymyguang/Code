@@ -1,0 +1,22 @@
+<html>
+    <body>
+        <script>
+            function factorial(x) {
+                for (var f = 1; x > 1; f *= x, x--);
+                return f
+            }
+            while (1) {
+                try {
+                    var n = prompt('请输入正整数：');
+                    var f = factorial(n);
+                    alert(f)
+                }
+
+                catch (ex) {
+                    alert(ex);
+                }
+            }
+            
+        </script>
+    </body>
+</html>

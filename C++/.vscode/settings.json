@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "2.C": "cpp"
+    },
+    "git.ignoreLimitWarning": true,
+    // "python.autoComplete.extraPaths": [
+    //     "./path-to-your-code"
+    // ],
+    // "python.jediEnabled": true,
+    // "python.languageServer": "Jedi",
+}
+

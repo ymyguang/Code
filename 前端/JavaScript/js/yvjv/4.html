@@ -1,0 +1,15 @@
+<script>
+    var a = [8, 7, 6, 5, 4, 3, 2, 1]
+    for (var i = 1; i < a.length; i++) {
+        var X = a[i];                        //待排序数
+        var j = i - 1;
+        while (j >= 0 && X < a[j]) {      // 与整个数字元素比较
+            a[j + 1] = a[j];
+            j--;
+        }
+        a[j + 1] = X;
+    }
+
+    console.log(a)
+
+</script>

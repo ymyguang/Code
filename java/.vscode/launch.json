@@ -1,0 +1,29 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main11",
+            "request": "launch",
+            "mainClass": "Main11",
+            "projectName": "java_bcc2e67c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BicyleDemo",
+            "request": "launch",
+            "mainClass": "BicyleDemo",
+            "projectName": "java_bcc2e67c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_bcc2e67c"
+        }
+    ]
+}
